@@ -1,4 +1,5 @@
 vi quick reference guide
+
 The vi editor has two modes: command and insert. The command mode allows the entry of commands to manipulate text. The insert mode puts anything typed on the keyboard into the current file. vi starts out in command mode. There are several commands that put the vi editor into insert mode. The most commonly used commands to get into insert mode are a and i. These two commands are described below. Once you are in insert mode, you get out of it by hitting the escape key. Except where indicated, vi is case sensitive.
  
 Cursor Movement Commands:
